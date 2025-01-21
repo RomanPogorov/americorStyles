@@ -1,0 +1,5 @@
+.gitignore
+eslint.config.js
+.editorconfig
+images/
+__tests__/

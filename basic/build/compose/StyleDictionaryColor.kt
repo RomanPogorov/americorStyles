@@ -1,0 +1,147 @@
+
+
+// Do not edit directly, this file was auto-generated.
+
+
+
+package StyleDictionaryColor
+
+import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.unit.*
+
+object StyleDictionaryColor {
+  val bgBrandDark = #0747a6
+  val bgBrandDarkSecondary = #0052cc
+  val bgBrandPrimary = #0065ff
+  val bgBrandQuarternary = #deebff
+  val bgBrandQuinary = #f0f6ff
+  val bgBrandSecondary = #2684ff
+  val bgBrandTertiary = #93c1ff
+  val bgCriticalDark = #701600
+  val bgCriticalPrimary = #de350b
+  val bgCriticalQuarternary = #ffebe6
+  val bgCriticalSecondary = #ff7452
+  val bgCriticalTertiary = #ffbdad
+  val bgInformativeDark = #0052cc
+  val bgInformativePrimary = #0065ff
+  val bgInformativeQuarternary = #deebff
+  val bgInformativeQuinary = #f0f6ff
+  val bgInformativeSecondary = #4c9aff
+  val bgInformativeTertiary = #b3d4ff
+  val bgNeutralDark = #061938
+  val bgNeutralPrimary = #ffffff
+  val bgNeutralQuaternary = #ebecf0
+  val bgNeutralQuinary = #b3bac5
+  val bgNeutralSecondary = #f4f5f7
+  val bgNeutralTertiary = #ebecf0
+  val bgNeutralWhite = #ffffff
+  val bgSuccessDark = #006644
+  val bgSuccessPrimary = #36b37e
+  val bgSuccessQuarternary = #e3fcef
+  val bgSuccessSecondary = #57d9a3
+  val bgSuccessTertiary = #abf5d1
+  val bgWarningDark = #93370d
+  val bgWarningPrimary = #f79009
+  val bgWarningQuarternary = #fffae6
+  val bgWarningSecondary = #ffd029
+  val bgWarningTertiary = #ffec9e
+  val borderColorBrand = #0065ff
+  val borderColorCritical = #de350b
+  val borderColorInformative = #0065ff
+  val borderColorNeutralDark = #c1c7d0
+  val borderColorNeutralLight = #f4f5f7
+  val borderColorSuccess = #36b37e
+  val borderColorWarning = #f79009
+  val brandDark = #0747a6
+  val brandDarkSecondary = #0052cc
+  val brandDisabled = #93c1ff
+  val brandHover = #0052cc
+  val brandPrimary = #0065ff
+  val brandQuarternary = #deebff
+  val brandQuinary = #f0f6ff
+  val brandSecondary = #2684ff
+  val brandTertiary = #93c1ff
+  val color = Color(0xffffffff)
+  val compButtonDestructiveBg = #de350b
+  val compButtonDestructiveBgDisabled = #dfe1e6
+  val compButtonDestructiveBgHover = #b92500
+  val compButtonDestructiveFg = #ffffff
+  val compButtonDestructiveSecondaryBgHover = #ffebe6
+  val compButtonDestructiveSecondaryFg = #de350b
+  val compButtonDestructiveSecondaryFgDisabled = #b3bac5
+  val compButtonDestructiveSecondaryFgHover = #b92500
+  val compButtonMinimalFg = #0065ff
+  val compButtonMinimalFgDisabled = #b3bac5
+  val compButtonMinimalFgHover = #0747a6
+  val compButtonOndarkBg = #ffffff
+  val compButtonOndarkBgHover = #f0f6ff
+  val compButtonOndarkFg = #0065ff
+  val compButtonOndarkFgDisabled = #deebff
+  val compButtonOndarkFgHover = #0747a6
+  val compButtonPrimaryBg = #0065ff
+  val compButtonPrimaryBgDisabled = #93c1ff
+  val compButtonPrimaryBgHover = #0052cc
+  val compButtonPrimaryFg = #ffffff
+  val compButtonPrimaryFgDisabled = #ffffff
+  val compButtonPrimaryFgHover = #ffffff
+  val compButtonSecondaryBg = #deebff
+  val compButtonSecondaryBgDisabled = #ebecf0
+  val compButtonSecondaryBgHover = #93c1ff
+  val compButtonSecondaryFg = #0065ff
+  val compButtonSecondaryFgDisabled = #7a869a
+  val compButtonSecondaryFgHover = #0065ff
+  val compButtonSecondaryOutlinedBgHover = #deebff
+  val compButtonSecondaryOutlinedFg = #0065ff
+  val compButtonSecondaryOutlinedFgDisabled = #7a869a
+  val compButtonSecondaryOutlinedFgHover = #0065ff
+  val compButtonSubtleBg = #ffffff
+  val compButtonSubtleBgHover = #f4f5f7
+  val compButtonSubtleFg = #505f79
+  val compButtonSubtleFgDisabled = #dfe1e6
+  val compButtonSuccessBg = #36b37e
+  val compButtonSuccessBgDisabled = #dfe1e6
+  val compButtonSuccessBgHover = #006644
+  val compButtonSuccessFg = #ffffff
+  val compCellBg = #ffffff
+  val compCellBorderBottom = #dfe1e6
+  val compInputBgDisabled = #f4f5f7
+  val compInputBgError = #ffffff
+  val compInputBgInitial = #f4f5f7
+  val compLinkDestructive = #de350b
+  val compLinkPrimary = #0065ff
+  val compSeparatorColorPrimary = #dfe1e6
+  val compSeparatorColorSecondary = #ebecf0
+  val fgBlack = #000000
+  val fgWhite = #ffffff
+  val iconBrandDark = #0747a6
+  val iconBrandPrimary = #0065ff
+  val iconBrandTertiary = #93c1ff
+  val iconCriticalPrimary = #de350b
+  val iconInformativePrimary = #0065ff
+  val iconLight = #ebecf0
+  val iconPrimary = #061938
+  val iconPrimaryOnbrand = #ffffff
+  val iconPrimaryOndark = #ffffff
+  val iconQuaternary = #c1c7d0
+  val iconSecondary = #505f79
+  val iconSuccessPrimary = #36b37e
+  val iconSuccessSecondary = #4bc993
+  val iconTertiary = #7a869a
+  val iconWarningPrimary = #f79009
+  val textBlack = #000000
+  val textBrandDark = #0747a6
+  val textBrandPrimary = #0065ff
+  val textBrandSecondary = #2684ff
+  val textCriticalPrimary = #de350b
+  val textInformativePrimary = #0065ff
+  val textPrimary = #061938
+  val textPrimaryOnbrand = #ffffff
+  val textPrimaryOndark = #ffffff
+  val textQuarternary = #b3bac5
+  val textSecondary = #505f79
+  val textSecondaryOnbrand = #f0f6ff
+  val textSuccessPrimary = #36b37e
+  val textTertiary = #7a869a
+  val textWarningPrimary = #f79009
+  val textWhite = #ffffff
+}

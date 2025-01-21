@@ -1,0 +1,44 @@
+{
+  "Left": {
+    "$type": "dimension",
+    "$value": "16px"
+  },
+  "Right": {
+    "$type": "dimension",
+    "$value": "16px"
+  },
+  "Top": {
+    "$type": "dimension",
+    "$value": "0px"
+  },
+  "Top_Large": {
+    "$type": "dimension",
+    "$value": "32px"
+  },
+  "Bottom": {
+    "$type": "dimension",
+    "$value": "0px"
+  },
+  "Bottom_Large": {
+    "$type": "dimension",
+    "$value": "32px"
+  },
+  "Spacing": {
+    "XL": {
+      "$type": "dimension",
+      "$value": "32px"
+    },
+    "L": {
+      "$type": "dimension",
+      "$value": "24px"
+    },
+    "M": {
+      "$type": "dimension",
+      "$value": "16px"
+    },
+    "S": {
+      "$type": "dimension",
+      "$value": "8px"
+    }
+  }
+}

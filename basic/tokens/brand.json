@@ -1,0 +1,38 @@
+{
+  "brand-dark": {
+    "$type": "color",
+    "$value": "{Color.blue.9}"
+  },
+  "brand-dark-secondary": {
+    "$type": "color",
+    "$value": "{Color.blue.8}"
+  },
+  "brand-primary": {
+    "$type": "color",
+    "$value": "{Color.blue.7}"
+  },
+  "brand-secondary": {
+    "$type": "color",
+    "$value": "{Color.blue.6}"
+  },
+  "brand-tertiary": {
+    "$type": "color",
+    "$value": "{Color.blue.4}"
+  },
+  "brand-quarternary": {
+    "$type": "color",
+    "$value": "{Color.blue.2}"
+  },
+  "brand-quinary": {
+    "$type": "color",
+    "$value": "{Color.blue.1}"
+  },
+  "brand-hover": {
+    "$type": "color",
+    "$value": "{Color.blue.8}"
+  },
+  "brand-disabled": {
+    "$type": "color",
+    "$value": "{Color.blue.4}"
+  }
+}

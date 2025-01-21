@@ -1,0 +1,258 @@
+{
+  "Family": {
+    "Headings": {
+      "$type": "string",
+      "$value": "Inter"
+    },
+    "Text": {
+      "$type": "string",
+      "$value": "Inter"
+    }
+  },
+  "Weight": {
+    "Heading_Bold": {
+      "$type": "string",
+      "$value": "Bold"
+    },
+    "Heading_Regular": {
+      "$type": "string",
+      "$value": "Regular"
+    },
+    "Body_Bold": {
+      "$type": "string",
+      "$value": "Semibold"
+    },
+    "Body_Regular": {
+      "$type": "string",
+      "$value": "Regular"
+    },
+    "CAPS_Bold": {
+      "$type": "string",
+      "$value": "Semibold"
+    },
+    "CAPS_Regular": {
+      "$type": "string",
+      "$value": "Regular"
+    },
+    "Light": {
+      "$type": "string",
+      "$value": "Light"
+    }
+  },
+  "Size": {
+    "Heading": {
+      "H1": {
+        "$type": "dimension",
+        "$value": "40px"
+      },
+      "H2": {
+        "$type": "dimension",
+        "$value": "34px"
+      },
+      "H3": {
+        "$type": "dimension",
+        "$value": "28px"
+      },
+      "Small": {
+        "$type": "dimension",
+        "$value": "22px"
+      }
+    },
+    "Body": {
+      "B1": {
+        "$type": "dimension",
+        "$value": "20px"
+      },
+      "B2": {
+        "$type": "dimension",
+        "$value": "17px"
+      },
+      "B3": {
+        "$type": "dimension",
+        "$value": "15px"
+      },
+      "B4": {
+        "$type": "dimension",
+        "$value": "13px"
+      },
+      "B5": {
+        "$type": "dimension",
+        "$value": "11px"
+      }
+    },
+    "CAPS": {
+      "C1": {
+        "$type": "dimension",
+        "$value": "15px"
+      },
+      "C2": {
+        "$type": "dimension",
+        "$value": "13px"
+      },
+      "C3": {
+        "$type": "dimension",
+        "$value": "11px"
+      }
+    }
+  },
+  "Line_Spacing": {
+    "Heading": {
+      "H1": {
+        "$type": "dimension",
+        "$value": "48px"
+      },
+      "H2": {
+        "$type": "dimension",
+        "$value": "40px"
+      },
+      "H3": {
+        "$type": "dimension",
+        "$value": "34px"
+      },
+      "Small": {
+        "$type": "dimension",
+        "$value": "26px"
+      }
+    },
+    "Body": {
+      "B1": {
+        "$type": "dimension",
+        "$value": "26px"
+      },
+      "B2": {
+        "$type": "dimension",
+        "$value": "22px"
+      },
+      "B3": {
+        "$type": "dimension",
+        "$value": "20px"
+      },
+      "B4": {
+        "$type": "dimension",
+        "$value": "18px"
+      },
+      "B5": {
+        "$type": "dimension",
+        "$value": "14px"
+      }
+    },
+    "CAPS": {
+      "C1": {
+        "$type": "dimension",
+        "$value": "20px"
+      },
+      "C2": {
+        "$type": "dimension",
+        "$value": "18px"
+      },
+      "C3": {
+        "$type": "dimension",
+        "$value": "14px"
+      }
+    }
+  },
+  "Letter_Spacing": {
+    "Heading": {
+      "HR1": {
+        "$type": "dimension",
+        "$value": "-0.41px"
+      },
+      "HB1": {
+        "$type": "dimension",
+        "$value": "-0.41px"
+      },
+      "HR2": {
+        "$type": "dimension",
+        "$value": "-0.41px"
+      },
+      "HB2": {
+        "$type": "dimension",
+        "$value": "-0.41px"
+      },
+      "HR3": {
+        "$type": "dimension",
+        "$value": "-0.35px"
+      },
+      "HB3": {
+        "$type": "dimension",
+        "$value": "-0.41px"
+      },
+      "HR4": {
+        "$type": "dimension",
+        "$value": "-0.35px"
+      },
+      "HB4": {
+        "$type": "dimension",
+        "$value": "-0.35px"
+      }
+    },
+    "Body": {
+      "BB1": {
+        "$type": "dimension",
+        "$value": "-0.41px"
+      },
+      "BR1": {
+        "$type": "dimension",
+        "$value": "-0.41px"
+      },
+      "BB2": {
+        "$type": "dimension",
+        "$value": "-0.41px"
+      },
+      "BR2": {
+        "$type": "dimension",
+        "$value": "-0.41px"
+      },
+      "BB3": {
+        "$type": "dimension",
+        "$value": "-0.21px"
+      },
+      "BR3": {
+        "$type": "dimension",
+        "$value": "-0.21px"
+      },
+      "BB4": {
+        "$type": "dimension",
+        "$value": "-0.21px"
+      },
+      "BR4": {
+        "$type": "dimension",
+        "$value": "-0.21px"
+      },
+      "BB5": {
+        "$type": "dimension",
+        "$value": "-0.21px"
+      },
+      "BR5": {
+        "$type": "dimension",
+        "$value": "-0.21px"
+      }
+    },
+    "CAPS": {
+      "CB1": {
+        "$type": "dimension",
+        "$value": "-0.41px"
+      },
+      "CR1": {
+        "$type": "dimension",
+        "$value": "0px"
+      },
+      "CB2": {
+        "$type": "dimension",
+        "$value": "0px"
+      },
+      "CR2": {
+        "$type": "dimension",
+        "$value": "0px"
+      },
+      "CB3": {
+        "$type": "dimension",
+        "$value": "0px"
+      },
+      "CR3": {
+        "$type": "dimension",
+        "$value": "0px"
+      }
+    }
+  }
+}
